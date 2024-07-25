@@ -1,0 +1,18 @@
+-------------------------------------------
+		2023-08-22 20:17:07.409145
+------------------------------------------
+		  FullMarks Rental Store 	
+------------------------------------------
+		 Machhapokhari, Kathmandu 	
+------------------------------------------
+			Return Details: 
+------------------------------------------
+Returned Equipment: Microphone_Set
+Equipment Brand:  Audio_Technica
+Quantity of equipment returned: 5
+Customer's name: Farkaune Manche
+Contact: 01-12345
+-------------------------------------------
+Number of extra days: 6
+Fine for being late: 453.59999999999997
+-------------------------------------------

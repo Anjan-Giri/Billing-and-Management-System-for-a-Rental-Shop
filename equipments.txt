@@ -1,0 +1,5 @@
+Velvet_Table_Cloth, Saathi, $8,20
+Microphone_Set, Audio_Technica, $189,30
+Disco_Light_Set, Sonoff, $322,20
+Surround_Sound_Speaker, Dolby, $489,4
+Dinner_Table_8x5, Panda_Furnitures, $344, 8

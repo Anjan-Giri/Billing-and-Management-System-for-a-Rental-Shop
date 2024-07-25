@@ -1,0 +1,24 @@
+-------------------------------------------
+	2023-08-22 18:35:06.698160
+------------------------------------------
+	  FullMarks Rental Store 	
+------------------------------------------
+	 Machhapokhari, Kathmandu 	
+------------------------------------------
+	     Purchase Details: 
+------------------------------------------
+		
+ Equipment ID: 2
+ Equipment name: Microphone_Set
+ Equipment brand:  Audio_Technica
+ Equipment Price:  $189
+ Number of equipment: 30
+ Number of equipment rented: 5
+ Number of days it is rented for: 7
+-------------------------------------------
+ Customer's Name: Kinne Manche
+ Contact Number: 01-987654
+ Email Address: kinnemanche29@gmail.com
+-------------------------------------------
+ Total Price: $1323.0
+-------------------------------------------

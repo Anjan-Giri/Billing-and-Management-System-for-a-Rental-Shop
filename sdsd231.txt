@@ -1,0 +1,18 @@
+-------------------------------------------
+		2023-08-24 17:25:41.421793
+------------------------------------------
+		  FullMarks Rental Store 	
+------------------------------------------
+		 Machhapokhari, Kathmandu 	
+------------------------------------------
+			Return Details: 
+------------------------------------------
+Returned Equipment: Disco_Light_Set
+Equipment Brand:  Sonoff
+Quantity of equipment returned: 1
+Customer's name: sdsd
+Contact: 231
+-------------------------------------------
+Number of extra days: 4
+Fine for being late: 515.2
+-------------------------------------------

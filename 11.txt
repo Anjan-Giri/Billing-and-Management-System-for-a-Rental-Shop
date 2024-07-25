@@ -1,0 +1,24 @@
+-------------------------------------------
+		2023-08-24 17:24:56.858818
+------------------------------------------
+		  FullMarks Rental Store 	
+------------------------------------------
+		 Machhapokhari, Kathmandu 	
+------------------------------------------
+			Purchase Details: 
+------------------------------------------
+		
+ Equipment ID: 1
+ Equipment name: Velvet_Table_Cloth
+ Equipment brand:  Saathi
+ Equipment Price:  $8
+ Number of equipment: 20
+ Number of equipment rented: 1
+ Number of days it is rented for: 1
+-------------------------------------------
+ Customer's Name: 1
+ Contact Number: 1
+ Email Address: 1
+-------------------------------------------
+ Total Price: $1.6
+-------------------------------------------
